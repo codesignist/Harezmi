@@ -15,7 +15,7 @@ package
 			
 		}
 		
-		public static function getFebo(index:Number):Number
+		public static function getFebonacciDirect(index:Number):Number
 		{
 			var baseFive:Number = Math.sqrt(5);
 			return (Math.pow((1 + baseFive) / 2, index) - Math.pow((1 - baseFive) / 2, index)) / baseFive;

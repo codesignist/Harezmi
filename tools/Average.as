@@ -1,5 +1,5 @@
 ﻿/**
- * VERSION: 0.1 BETA
+ * VERSION: 0.2 BETA
  * DATE: 2010-02-23
  * AS3
  * @author codesignist

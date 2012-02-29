@@ -1,5 +1,5 @@
 /**
- * VERSION: 0.12 BETA
+ * VERSION: 0.13 BETA
  * DATE: 2010-02-23
  * AS3
  * @author codesignist
@@ -15,7 +15,7 @@ package
 			
 		}
 		
-		public static const version:Number = 0.12;
+		public static const version:Number = 0.13;
 		
 		public static const goldenRatio:Number = (1 + Math.sqrt(5)) / 2;
 		
